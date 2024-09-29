@@ -1,0 +1,3 @@
+DATE_FMT: '%Y-%m-%d %H:%M:%S'
+LOG_FMT: '{time} [{level}]: {message}'
+BANNED_CHARS: [':', "'", '?', '...', '/', '\', '|', '®', '•', '.']
